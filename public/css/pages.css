@@ -1,0 +1,56 @@
+/* start breadcrumb*/
+
+.breadcrumb-container
+{
+background-color: #F5F5F5
+}
+.breadcrumb
+{
+margin: 0;
+padding:10px 0;
+}
+
+
+
+/* end breadcrumb*/
+
+/*start Actualites intro*/
+
+.actualites
+{
+    padding: 70px 0
+}
+.actualites h1,h2{
+    color: black;
+}
+.actualites p
+{
+    font-size:20px;
+    text-align:justify;
+    text-indent:20px;
+    line-height: 2em
+}
+.actualites .newheight{
+
+    margin-bottom: 60px;
+}
+
+@media (min-width: 768px){
+    .actualites .lignheight{
+        line-height:normal;
+    }
+    .actualites h2 {
+        font-size: 19px;
+    }
+}
+/*end Actualites intro*/
+
+/*start o-nas*/
+.o-nas h2{
+    font-size: 55px;
+    margin-top: 72px;
+}
+.o-nas p{
+    font-size:25px;
+    line-height:2em
+}
