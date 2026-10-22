@@ -53,7 +53,7 @@ Laravel 6.0 was released in October 2019 and the sitemap's `lastmod` is **1 Nove
 
 Captured locally by running the app in Docker (PHP 7.4 + MySQL 5.7), see [portfolio/local-run](https://github.com/bandarsiri2026/portfolio#run-any-project-locally).
 
-![Landing page with slider, services and contact blocks](ekstrasens-home.png)
+![Landing page with slider, services and contact blocks(screenshots/ekstrasens-home.png)
 
 *Landing page with slider, services and contact blocks*
 
