@@ -49,6 +49,14 @@ Laravel 6.0 was released in October 2019 and the sitemap's `lastmod` is **1 Nove
 - No database-backed content management — editing text requires code changes (a deliberate scope decision for this small site).
 - Legacy Google Analytics (Universal Analytics) property is referenced; it has since been deprecated by Google.
 
+## Screenshots
+
+Captured locally by running the app in Docker (PHP 7.4 + MySQL 5.7), see [portfolio/local-run](https://github.com/bandarsiri2026/portfolio#run-any-project-locally).
+
+![Landing page with slider, services and contact blocks](ekstrasens-home.png)
+
+*Landing page with slider, services and contact blocks*
+
 ## License
 
 MIT — see [LICENSE](LICENSE). The code is released under MIT; third-party assets (client product photos, fonts, brand imagery) are not covered by this license and belong to their respective owners.
